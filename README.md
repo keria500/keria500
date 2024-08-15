@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kirill (keria500)
-- 👀 I’m interested in Python, and Bot creating
+- 👋 Hi, I’m Kirill
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Kuricinyopta@mail.ru
